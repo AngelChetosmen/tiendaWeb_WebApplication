@@ -1,0 +1,8 @@
+com\mycompany\tiendaweb\EliminarProducto.class
+com\mycompany\tiendaweb\TestDBConnection.class
+com\mycompany\tiendaweb\MostrarProducto.class
+com\mycompany\tiendaweb\Producto.class
+com\mycompany\tiendaweb\ListaProductos.class
+com\mycompany\tiendaweb\InsertarProducto.class
+com\mycompany\tiendaweb\ProductoDAO.class
+com\mycompany\tiendaweb\ActualizarProducto.class

@@ -1,0 +1,38 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 7 ene. 2023, 19:53:58
+    Author     : josec
+*/
+
+body{
+    background-color: #013220;
+}
+
+.colorText{
+    color: white;
+}
+
+.centrado{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#particles-js{
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    z-index: -1;
+    background-color: #013220;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.centrar{
+    vertical-align: middle;
+    
+}
