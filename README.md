@@ -1,21 +1,21 @@
 # Tienda Web
 
->.[!NOTE]
+>[!NOTE]
 > El proyecto **Tienda Web** ha sido desarrollado por las siguientes personas: 
 >- J.L, Herrera Saavedra
 >- J.M, Martínez Acosta
 >- C.A, Parra García
 >- J.A, Vega Reyes (autor de este repositorio)
->
-> Este proyecto fue desarrollado para la Unidad de Aprendizaje **"Tecnologías para el Desarrollo Web"**, grupo **4CM1** en la **Escuela Superior de Cómputo** del **Instituto Politécnico Nacional** en la Unidad **Zacatenco, Ciudad de México**.
 
->.[!IMPORTANT]
-> El proyecto **Tienda Web** se ha implementado, probado y ejecutado con Apache Tomcat (**versión 10.0.27**) junto con el IDE NetBeans (**versión IDE 15**), por lo que es importante que se consideren estas herramientas para su perfecta visualización, si quieres visualizar directamente como se ve el proyecto funcionando, aquí te dejo un link que te podrá ayudar ver lo que se ha podido hacer con este proyecto: 
->```url
+Este proyecto fue desarrollado para la Unidad de Aprendizaje **"Tecnologías para el Desarrollo Web"**, grupo **4CM1** en la **Escuela Superior de Cómputo** del **Instituto Politécnico Nacional** en la Unidad **Zacatenco, Ciudad de México**.
+
+>[!IMPORTANT]
+El proyecto **Tienda Web** se ha implementado, probado y ejecutado con Apache Tomcat (**versión 10.0.27**) junto con el IDE NetBeans (**versión IDE 15**), por lo que es importante que se consideren estas herramientas para su perfecta visualización, si quieres visualizar directamente como se ve el proyecto funcionando, aquí te dejo un link que te podrá ayudar ver lo que se ha podido hacer con este proyecto: 
+```url
      https://github.com/AngelChetosmen/tiendaWeb_WebApplication.git
-    ```
->.[!CAUTION]
-> Es posible que la url del proyecto en ocasiones no llegue a funcionar, ya sea por el proveedor o por el vencimiento de la liga. Si por alguna razón no llega a ser visible el proyecto, contáctame para poder resolverlo lo más pronto que me sea posible. 
+```
+>[!CAUTION]
+Es posible que la url del proyecto en ocasiones no llegue a funcionar, ya sea por el proveedor o por el vencimiento de la liga. Si por alguna razón no llega a ser visible el proyecto, contáctame para poder resolverlo lo más pronto que me sea posible. 
 
 ## Descripción
 El proyecto **Tienda Web** es una aplicación web desarrollada en Java utilizando NetBeans IDE. Esta aplicación permite gestionar productos en una tienda en línea, incluyendo funcionalidades para insertar, actualizar, eliminar y listar productos. El proyecto está diseñado para ejecutarse en un servidor Apache Tomcat y utiliza una base de datos MySQL para el almacenamiento de datos.
